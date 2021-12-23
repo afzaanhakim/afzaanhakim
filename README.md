@@ -1,4 +1,4 @@
-### Hi there, I'm Afzaan <img width="34px" src="https://c.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif"/> 
+## Hi there, I'm Afzaan <img width="48px" src="https://c.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif"/> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@afzaan_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/afzaan_)](https://twitter.com/afzaan_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzaanh/)
