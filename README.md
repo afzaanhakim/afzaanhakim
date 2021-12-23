@@ -7,6 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=afzaanhakim.afzaanhakim)
 
 
+
 ## Former Marketer, Data Visualizer turned Fullstack Developer 👨‍💻 🍀!
 
 - 🌱 I’m currently learning/building with Solidity, Typescript and the AWS Ecosystem
@@ -84,3 +85,4 @@
 [linkedin]: https://linkedin.com/in/afzaanh/
 [opensea]: https://opensea.io/afzaan
 [tableau]: https://public.tableau.com/app/profile/afzaan.hakim
+![](https://hit.yhype.me/github/profile?user_id=64027936)
