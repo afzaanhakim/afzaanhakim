@@ -63,14 +63,14 @@
 
 ---
 
-<details>
-  <summary> GitHub Stats</summary>
+
+## In My Time on Github 🤓
 
   <img align="left" alt="Afzaan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=afzaanhakim&show_icons=true&hide_border=true&theme=dracula" />
 
-</details>
 
-[twitter]: https://twitter.com/_afzaan
+
+[twitter]: https://twitter.com/afzaan_
 [instagram]: https://instagram.com/ah7lfc
 [linkedin]: https://linkedin.com/in/afzaanh/
 [opensea]: https://opensea.io/afzaan
