@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=afzaanhakim.afzaanhakim)
 
 
-## Former Marketer,Data Visualizer turned Fullstack Developer 👨‍💻 🍀!
+## Former Marketer, Data Visualizer turned Fullstack Developer 👨‍💻 🍀!
 
 - 🌱 I’m currently learning/building with Solidity, Typescript and the AWS Ecosystem
 - 👯 I’m looking to build more fun projects and work as a fullstack developer!
