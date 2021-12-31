@@ -76,7 +76,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   12 hrs 40 mins  ████████████████▓░░░░░░░░   67.12 % 
+Solidity     3 hrs 49 mins   █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+CSS          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
