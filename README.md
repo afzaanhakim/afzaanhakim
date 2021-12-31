@@ -1,10 +1,10 @@
-# Hi there, I'm Afzaan <img width="48px" src="https://c.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif"/> 
+# Hi, I'm Afzaan || afzaan.eth <img width="48px" src="https://c.tenor.com/HUnC8D7ZhbcAAAAi/goku-dbz.gif"/> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@afzaan_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/afzaan_)](https://twitter.com/afzaan_)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzaanh/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:afzaanhakim19@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-@ah7lfc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ah7lfc) 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=afzaanhakim.afzaanhakim)
+![GitHub Views](https://komarev.com/ghpvc/?username=afzaanhakim)
 
 
 
@@ -63,10 +63,13 @@
 <br />
 
 ### 📺 Latest Web3 Projects
-
-- [Built RecipeDAO with Javascript, React, Thirdweb 🤯](https://recipedao.vercel.app/)
-- [My own Liverpool FC NFT Marketplace built on Solana 🚀,](https://liverpoolfc-nft-candymachine.vercel.app/)
-- [Upload your Dragon Ball GIF on Solana ](https://dbzportalgifssolana-afzaanhakim.vercel.app/)
+- [Pikachu And The Legends of The Multiverse - An NFT Game](https://pikachu-and-the-legends-of-the-multiverse.vercel.app/) <img width="40px" src="https://c.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif"/>
+  
+- [Built RecipeDAO with Javascript, React, Thirdweb](https://recipedao.vercel.app/)<img width="40px" src="https://c.tenor.com/xIx-7_MtPrcAAAAi/foodbyjag-jagyasini-singh.gif"/>
+  
+- [My own Liverpool FC NFT Marketplace built on Solana](https://liverpoolfc-nft-candymachine.vercel.app/)<img width="35px" src="https://c.tenor.com/2mc3x3ph1poAAAAi/peace-yoga.gif"/>
+  
+- [Upload your Dragon Ball GIF on Solana](https://dbzportalgifssolana-afzaanhakim.vercel.app/)<img width="40px" src="https://c.tenor.com/CVCcyFkv72wAAAAi/goku-vs-frieza-fight.gif"/>
 
 ---
 
