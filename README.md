@@ -4,13 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afzaanh/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:afzaanhakim19@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-@ah7lfc-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ah7lfc) 
-![GitHub Views](https://komarev.com/ghpvc/?username=afzaanhakim)
+![Profile Views](https://komarev.com/ghpvc/?username=afzaanhakim)
 
 
 
 ## Former Marketer, Data Visualizer turned Fullstack Developer 👨‍💻 🍀!
 
-- 🌱 I’m currently learning/building with Solidity, Typescript and the AWS Ecosystem
+- 🌱 I’m an AWS Certified Cloud Practitioner and Web3 Enthusiast currently learning/building with Solidity, Typescript and the AWS Ecosystem
 - 👯 I’m looking to build more fun projects and work as a fullstack developer!
 - 🥅 2022 Goals: Contribute to Open Source projects, build a production level DAO and a community, become a better developer 🤗
 - ⚡ Fun fact: I love to cook, play soccer and deep dive into the web3 rabbithole 🐰
@@ -61,6 +61,11 @@
 
 <br />
 <br />
+
+
+### 📺 Latest Fun Projects
+
+- [Vidstar - A WebApp that helps you find information such as rating, upvotes etc for your favorite movies](https://vidstar.vercel.app/) <img width="35px" src="https://c.tenor.com/PhQ05RShWzUAAAAi/its-movie-time-chatime.gif"/>
 
 ### 📺 Latest Web3 Projects
 - [Pikachu And The Legends of The Multiverse - An NFT Game](https://pikachu-and-the-legends-of-the-multiverse.vercel.app/) <img width="40px" src="https://c.tenor.com/0GRl16naN8YAAAAi/pokemon-nintendo.gif"/>
