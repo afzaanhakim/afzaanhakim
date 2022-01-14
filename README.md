@@ -15,7 +15,6 @@
 - 🥅 2022 Goals: Contribute to Open Source projects, build a production level DAO and a community, become a better developer 🤗
 - ⚡ Fun fact: I love to cook, play soccer and deep dive into the web3 rabbithole 🐰
 - Originally from 🇮🇳, studied and completed my M.Sc from 🇺🇸, now living in 🇨🇦
-- You can reach me at :email: afzaanhakim19@gmail.com
   <br />
   <br />
 
