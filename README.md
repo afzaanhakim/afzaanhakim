@@ -18,15 +18,6 @@
   <br />
   <br />
 
-### Connect with me:
-
-[<img align="left" alt="_afzaan | Twitter" width="22px" src="https://imgr.search.brave.com/5R0LmSewlPR-KAow82YWF13vtdks8g7lFfYnOawkEhI/fit/1200/1200/ce/1/aHR0cHM6Ly93d3cu/cG5na2V5LmNvbS9w/bmcvZnVsbC8yLTI3/NjQ2X3R3aXR0ZXIt/bG9nby1wbmctdHJh/bnNwYXJlbnQtYmFj/a2dyb3VuZC1sb2dv/LXR3aXR0ZXItcG5n/LnBuZw" />][twitter]
-[<img align="left" alt="afzaanhakim | LinkedIn" width="22px" src="https://imgr.search.brave.com/UFkmtG3T2kun9LXee-yLcCAQmtiwILOEG9uFiyYZ3MA/fit/1200/1200/ce/1/aHR0cHM6Ly9wbmdp/bWcuY29tL3VwbG9h/ZHMvbGlua2VkSW4v/bGlua2VkSW5fUE5H/MjQucG5n" />][linkedin]
-[<img align="left" alt="afzaanhakim | Instagram" width="22px" src="https://imgr.search.brave.com/iyoJR1WLl99PKTyzruX6oe_YRFYPl6Bky_DRHPC0rU4/fit/1024/1024/ce/1/aHR0cHM6Ly93d3cu/c2VxdW95YWhyZWdp/b25hbGxpYnJhcnku/b3JnL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE3LzAyL2luc3Rh/Z3JhbS1pY29uLnBu/Zw" />][instagram]
-[<img align="left" alt="afzaanhakim | OpenSea" width="22px" src="https://imgr.search.brave.com/4WlQX8vrqV3uPc6oO4qhQbvo1WPhe5STbsOX8_rNLoY/fit/300/300/ce/1/aHR0cHM6Ly90aGVt/ZS56ZGFzc2V0cy5j/b20vdGhlbWVfYXNz/ZXRzLzEwNjgwMDcz/L2VhMjNlODBhMDBh/MjFhMjQ5OWRiOGI1/YmI5NWNkMzFiZTFk/OWVmYTEucG5n" />][opensea]
-
-<br />
-<br />
 
 ### Languages and Tools:
 
