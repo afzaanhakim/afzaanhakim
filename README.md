@@ -71,11 +71,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 24 mins   ██████████████▓░░░░░░░░░░   58.96 % 
-TypeScript   2 hrs 40 mins   █████████░░░░░░░░░░░░░░░░   35.87 % 
-HTML         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+JavaScript   7 hrs 27 mins   █████████████████▓░░░░░░░   70.88 % 
+TypeScript   2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.45 % 
+HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
