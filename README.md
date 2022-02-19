@@ -71,9 +71,10 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 4 mins
+Total: 10 hrs 52 mins
 
-JavaScript   8 hrs 2 mins    █████████████████████████   99.63 % 
+JavaScript   10 hrs 48 mins  ████████████████████████▓   99.33 % 
+Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 <!--END_SECTION:waka-->
 
