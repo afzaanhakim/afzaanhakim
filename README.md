@@ -71,9 +71,11 @@
 ## Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 24 mins   █████████████████░░░░░░░░   68.41 % 
-Markdown     2 hrs 53 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
-Bash         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JavaScript   7 hrs 46 mins   ███████████████▒░░░░░░░░░   61.26 % 
+Markdown     3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Solidity     1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 ```
 <!--END_SECTION:waka-->
 
