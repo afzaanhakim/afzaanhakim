@@ -72,7 +72,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SQL   3 hrs 15 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
