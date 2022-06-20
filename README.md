@@ -9,11 +9,9 @@
 
 
 ## Former Marketer, Data Visualizer turned Fullstack Developer 👨‍💻 🍀!
-
-- 🌱 I’m an AWS Certified Cloud Practitioner and Web3 Enthusiast currently learning/building with Solidity, Typescript and the AWS Ecosystem
+- 🌱 I’m an AWS Certified Cloud Practitioner and Full Stack Developer currently learning/building with JAVA, Spring,  Angular, Javascript, NodeJS and the AWS Ecosystem
 - 👯 I’m looking to build more fun projects and work as a fullstack developer!
-- 🥅 2022 Goals: Contribute to Open Source projects, build a production level DAO and a community, become a better developer 🤗
-- ⚡ Fun fact: I love to cook, play soccer and deep dive into the web3 rabbithole 🐰
+- ⚡ Fun fact: I love to cook, play soccer and deep dive into new technologies 🐰
 - Originally from 🇮🇳, studied and completed my M.Sc from 🇺🇸, now living in 🇨🇦
   <br />
   <br />
